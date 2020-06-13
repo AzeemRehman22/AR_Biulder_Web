@@ -1,0 +1,71 @@
+.navbar{
+background-color: #212121 !important;
+
+}
+
+.nav-link{
+
+    font-weight: bold !important;
+    color: white !important;
+
+}
+.dropdown-item:hover{
+    background-color:#212121; 
+}
+.dropdown-item{
+    color: white !important;
+   
+}
+.logo{
+    width: auto;
+    height: 30px;
+}
+.fa-building-o,.fa-user-circle-o{
+    font-size: 32px !important;
+}
+.about{
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+   
+    color: black;
+}
+.aa{
+    font-weight: bold;
+}
+
+.d-block{
+width: 1000px ;
+height: 450px;
+}
+.carousel-caption{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.cont1, .cont2, .cont3, .cont {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    border: solid 2px black;
+    margin-top: 25px;
+}
+.img{
+    text-align: center;
+}
+.footer{
+    width: 100%;
+    height: 70px;
+    background-color: #212121;
+    margin-top: 30px;
+}
+.footer > div {
+    color: white;
+  text-align: center;
+}
